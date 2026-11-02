@@ -1,0 +1,6 @@
+{
+  "name": "HVAC-R AI 에듀테크 코스웨어",
+  "description": "고등학교 냉동공조공학 전공 학생을 위한 AI 기반 30문항 진단평가, 5단계 성취수준 분석 및 20~100제 맞춤형 문제 자동 생성 코스웨어",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
